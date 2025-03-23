@@ -16,7 +16,7 @@ A short video tutorial is also provided to help you get started with the app.
 
 This repository and the tools it provides are a significant step forward in the research of the JFK case. With this technology, it's possible that new insights and theories could be uncovered, bringing us closer to understanding one of the most enduring mysteries of our time. Good luck with your research!
 
-There is a little more for your inspiration. I am a big fan of Swedish crime series. These are definately the best in the world. Before you start researching JFK case please watch the best Swedish crime mini series ever, it will lift you spirit.
+There is a little more for your inspiration. I am a big fan of Swedish crime series. These are definately the best in the world. Before you start researching JFK case please watch the best Swedish crime mini series ever, it will lift you spirit. The game is not lost yet.
 
 1. https://www.youtube.com/watch?v=6ejCRWXcTCs
 2. https://www.youtube.com/watch?v=4N-rMXxhyuc
